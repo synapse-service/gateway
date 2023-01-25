@@ -1,0 +1,7 @@
+/bin/
+/keys/
+
+/config.yaml
+/secret.yaml
+
+.DS_Store
